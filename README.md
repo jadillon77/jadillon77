@@ -60,10 +60,10 @@ I’m a multi-talented QA professional with over a decade of experience ensuring
 
 Here are a few repositories that showcase my work and approach to QA:  
 
-- 🔹 [**qa-test-cases-template**](https://github.com/your-username/qa-test-cases-template) – A reusable template for writing clear and structured manual test cases.  
-- 🔹 [**postman-collections**](https://github.com/your-username/postman-collections) – API testing collections and environments for sample applications.  
-- 🔹 [**automation-experiments**](https://github.com/your-username/automation-experiments) – Early automation test scripts (JavaScript / TypeScript) for UI & API testing.  
-- 🔹 [**bug-report-examples**](https://github.com/your-username/bug-report-examples) – Example bug reports with screenshots, logs, and structured documentation.  
+- 🔹 [**qa-test-cases-template**](https://github.com/jadillon77/qa-test-cases-template) – A reusable template for writing clear and structured manual test cases.  
+- 🔹 [**postman-collections**](https://github.com/jadillon77/postman-collections) – API testing collections and environments for sample applications.  
+- 🔹 [**automation-experiments**](https://github.com/jadillon77/automation-experiments) – Early automation test scripts (JavaScript / TypeScript) for UI & API testing.  
+- 🔹 [**bug-report-examples**](https://github.com/jadillon77/bug-report-examples) – Example bug reports with screenshots, logs, and structured documentation.  
 
 ---
 
@@ -71,7 +71,7 @@ Here are a few repositories that showcase my work and approach to QA:
 
 📧 **mdillon1@nctc.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/jennifer-dillon-62ba0945/)  
-🐙 [GitHub](https://github.com/your-username)  
+🐙 [GitHub](https://github.com/jadillon77)  
 
 ---
 
