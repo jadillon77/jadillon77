@@ -70,7 +70,7 @@ Here are a few repositories that showcase my work and approach to QA:
 ## 📫 Let’s Connect  
 
 📧 **mdillon1@nctc.com**  
-💼 [LinkedIn](#) *(add your LinkedIn link here)*  
+💼 [LinkedIn](https://www.linkedin.com/in/jennifer-dillon-62ba0945/)  
 🐙 [GitHub](https://github.com/your-username)  
 
 ---
